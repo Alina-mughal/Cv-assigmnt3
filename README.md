@@ -1,6 +1,6 @@
 # Cv-assigmnt3
 main.js file
-document.write("<h3>Personal Profile</h3><br>Name: Alina<br>Age: 23<br>Address: Pasrur Sialkot<br>Telephone Number: +92 300 6177917<br>E.mail:aylee.alina@gmail.com<br>Domicile: Sialkot<br>Marital Status: Single");
+document.write("<h3>Personal Profile</h3><br>Name: Alina<br>Age: 23<br>Address: Sialkot<br>Telephone Number: +920000000000<br>E.mail:alina.aylee@gmail.com<br>Domicile: Sialkot<br>Marital Status: Single");
 document.write("<h3>Career Objectives:</h3>");
 document.write("Seeking a position in an organization to utilize my skills and build a good rapport in the company and take them to a new height.");
 document.write("<h3>Education:</h3>");
